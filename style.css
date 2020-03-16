@@ -7,20 +7,17 @@ body {
     font-family: 'Playfair Display', serif;
 }
 
-header {
-    text-align: right;
-}
-
 header div {
     text-align: left;
     font-family: 'Liu Jian Mao Cao', cursive;
     display: inline-block;
-    margin: 0;
+    width: 30%;
 }
 
 nav {
+    text-align: right;
     display: inline-block;
-    width: 70%;
+    width: 69%;
 }
 
 footer img {
